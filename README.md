@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Starting from zero
+
+```bash
+# add css-reset
+npm i @atlaskit/css-reset
+
+# add styled-components
+npm i styled-components
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
