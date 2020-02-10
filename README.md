@@ -3,11 +3,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Starting from zero
 
 ```bash
-# add css-reset
+# install css-reset
 npm i @atlaskit/css-reset
 
-# add styled-components
+# install styled-components
 npm i styled-components
+
+# install react-beautiful-dnd
+npm i react-beautiful-dnd
 ```
 
 ## Available Scripts
